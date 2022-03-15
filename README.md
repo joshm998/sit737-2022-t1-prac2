@@ -1,1 +1,3 @@
-"# sit737-2022-t1-prac2" 
+# SIT737 Prac 2
+
+Run by using `npm start`
